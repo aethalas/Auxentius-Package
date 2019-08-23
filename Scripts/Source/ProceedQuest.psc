@@ -1,0 +1,1 @@
+Scriptname ProceedQuest extends ObjectReference  
